@@ -44,7 +44,7 @@ class AboutMePage extends StatelessWidget {
                 children: [
                   CircleAvatar(
                     radius: 60,
-                    backgroundImage: AssetImage('assets/profile_image.jpg'),
+                    backgroundImage: AssetImage('images/profile.jpg'),
                   ),
                   SizedBox(height: 16.0),
                   Text(
