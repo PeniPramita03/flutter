@@ -14,6 +14,7 @@ class DetailScreen extends StatelessWidget {
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Image.asset('images/poltek.png', 
               height: 100.0,
